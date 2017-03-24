@@ -1,3 +1,6 @@
+# Open Franz Plugins Directory
+$ open ~/Library/Application\ Support/Franz/Plugins
+
 # Franz Plugins
 
 This repository is a collection of all public [Franz](http://meetfranz.com) service integrations.

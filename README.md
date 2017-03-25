@@ -1,3 +1,6 @@
+# Samples
+http://dev.classmethod.jp/etc/franz-plugin/
+
 # Open Franz Plugins Directory
 $ open ~/Library/Application\ Support/Franz/Plugins
 
